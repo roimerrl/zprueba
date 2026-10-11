@@ -1,0 +1,14 @@
+# Ignorar carpetas de caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar entornos virtuales (si llegas a usarlos más adelante)
+.venv/
+env/
+venv/
+ENV/
+
+# Ignorar archivos de configuración del sistema o editores
+.vscode/
+.idea/
+Thumbs.db
